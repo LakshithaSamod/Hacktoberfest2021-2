@@ -16,3 +16,4 @@
 | Sai Varshith         | [@sai-varshith](https://github.com/sai-varshith)              |         1        |
 | Moh. Absar Rahman    | [@absarrahman](https://github.com/absarrahman)                |         1        |
 | Parth Mistry         | [@m-prth](https://github.com/m-prth)                          |         1        |
+| Lakshitha Samod      | [@m-prth](https://github.com/LakshithaSamod)                  |         1        |
